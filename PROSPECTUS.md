@@ -2,10 +2,13 @@
 
 _Adapted from [the Bouvet Island prospectus](https://kubernetescommunitydays.org/events/2020-bouvet-island/sponsor/)_
 
-## Post-Event Social: $5,000 (Limit 2)
+## Post-Event Social: $5,000
 
-- Exclusive branding at event
+_Two sponsors may split this sponsorship. In case of a split, each sponsor get all benefits below in full unless otherwise noted._
+
+- Exclusive branding at event for all sponsors
 - 6 Tickets
+  - 3 tickets per sponsor if two sponsors split
 - Table presence at the venue
 - Logo on site and conference materials
 - A thank you announcement in closing presentation
