@@ -6,12 +6,12 @@ _Adapted from [the Bouvet Island prospectus](https://kubernetescommunitydays.org
 
 _Two sponsors may split this sponsorship. In case of a split, each sponsor get all benefits below in full unless otherwise noted._
 
-- Exclusive branding at event for all sponsors
+- Exclusive branding at event
 - 6 Tickets
   - 3 tickets per sponsor if two sponsors split
 - Table presence at the venue
 - Logo on site and conference materials
-- A thank you announcement in closing presentation
+- A thank you announcement in opening and closing presentations
 
 ## Gold: $3,000 (Limit 3)
 
