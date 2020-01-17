@@ -8,6 +8,7 @@ _Adapted from [the Bouvet Island prospectus](https://kubernetescommunitydays.org
 - 6 Tickets
 - Table presence at the venue
 - Logo on site and conference materials
+- A thank you announcement in closing presentation
 
 ## Gold: $3,000 (Limit 3)
 
@@ -24,4 +25,3 @@ _Adapted from [the Bouvet Island prospectus](https://kubernetescommunitydays.org
 - A thank you in opening and closing presentations
 - 2 tickets (max 2 at a table at any time)
 - Shared table presence at the venue
-
