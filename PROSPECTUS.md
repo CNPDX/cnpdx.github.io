@@ -2,24 +2,26 @@
 
 _Adapted from [the Bouvet Island prospectus](https://kubernetescommunitydays.org/events/2020-bouvet-island/sponsor/)_
 
-## Post-Event Social: Contact us (Limit 1)
+## Post-Event Social: $5,000 (Limit 2)
 
-- Opportunity to sponsor a fully branded post-event social
-- 8 Tickets
+- Exclusive branding at event
+- 6 Tickets
 - Table presence at the venue
 - Logo on site and conference materials
 
-## Gold: #3,000 (Limit 3)
+## Gold: $3,000 (Limit 3)
 
-- Logo on event materials and website
-- 8 tickets (max 2 at table at any time)
-- 5 minute “promo’ spot during talk intermissions
+- Your logo on banner at conference site, conference materials, and website
+- A mention in all conference-related announcements
+- A thank you announcement in opening and closing presentations
+- A 2 minute promotional spot during talk intermissions
+- 5 tickets (max 2 at table at any time)
 - Table presence at the venue
-- Logo on site and conference materials
 
 ## Silver: $1,000 (Limit 10)
 
-- 6 tickets (max 2 at a table)
-- 10-minute “promo’ spot during talk intermissions
-- Table presence at the venue
-- Logo on conference materials
+- Your logo on conference materials and website
+- A thank you in opening and closing presentations
+- 2 tickets (max 2 at a table at any time)
+- Shared table presence at the venue
+
