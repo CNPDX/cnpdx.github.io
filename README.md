@@ -1,4 +1,9 @@
-## Site for Cloud Native PDX - cnpdx.us
+## Site for The Old KCD-PDX Website
+
+This repo was for the old website for the attempted Kubernetes Community Day Portland.  That event was cancelled due to COVID in 2020, and as such this website is no longer needed and was allowed to expire.  Please see the Website repository for the new website.
+
+
+## Readme
 
 You can use the [editor on GitHub](https://github.com/CNPDX/cnpdx.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
